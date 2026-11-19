@@ -69,3 +69,14 @@ Based on the factors explored, the analysis provides several areas for hosts to 
 - **Seasonal planning:** Monitor occupancy trends and adapt pricing and availability throughout the year.
 
 ##
+
+## Dashboard Visualisations
+
+### Airbnb Occupancy Overview
+![Airbnb Overview](airbnb-overview.png)
+
+### Average Occupancy by Room Type
+![Occupancy by Room Type](occupancy-by-room-type.png)
+
+### Monthly Occupancy Trends
+![Monthly Occupancy Trend](monthly-occupancy-trend.png)
